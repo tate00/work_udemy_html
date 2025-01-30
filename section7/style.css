@@ -1,0 +1,97 @@
+.two-column-container {
+    display: flex;
+    gap: 0px;
+    width: 100%;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+.left {
+    background-color: #1DA1F2;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+body{
+    margin: 0px;
+}
+
+.left-word{
+    color: #ffffff;
+    text-align: left;
+}
+
+form{
+    margin-bottom: auto;
+}
+
+.right-word1 {
+    font-weight: bold;
+    margin-left: 30%;
+    font-size:  20px;
+}
+
+.right-word2{
+    margin-bottom:10px;
+    margin-left: 30%;
+}
+
+.right-content{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.user-name{
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 10%;
+}
+
+.password{
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.login-button1{
+    background-color: #ffffff;
+    color: #1DA1F2;
+    border: 1px solid #1DA1F2;;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.account-button{
+    margin-bottom: 10px;
+    color:  #ffffff;
+    background-color:#1DA1F2;
+    border: 1px solid #1DA1F2;
+    border-radius:  2.5px;
+    width:  300px;
+    height:30px;
+    margin-left: 30%;
+}
+
+.login-button2{
+    margin-bottom: 10px;
+    color:  #1DA1F2;
+    background-color:#ffffff;
+    border: 1px solid #1DA1F2;
+    border-radius:  2.5px;
+    width:  300px;
+    height:30px;
+    margin-left: 30%;
+}

@@ -1,0 +1,20 @@
+.custom-list{
+    list-style-type: none;
+    margin:auto;
+    border: 1px solid #000;
+    background-color: #ccc;
+    width: 30%;
+    padding: 0px;
+}
+.custom-li{
+    border-bottom: 1px solid #000;
+    padding: 10px;
+}
+
+.custom-li-last{
+    padding: 10px;
+}
+a{
+    color: #888;
+}
+

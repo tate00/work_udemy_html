@@ -1,0 +1,16 @@
+.company {
+    width: 50%;
+    border-collapse: collapse;
+    border: 1px solid #000;
+    margin: auto;
+}
+
+.company_name{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+}
+
+.company_name1{
+    padding-left: 10px;
+}
