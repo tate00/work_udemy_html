@@ -1,0 +1,63 @@
+body {
+  background-color: gray;
+}
+
+form {
+  background-color: white;
+  width: 550px;
+  height: 250px;
+  margin: auto;
+}
+
+input {
+  width: 500px;
+  height: 30px;
+  border: 0.5px solid black;
+  margin: auto;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+button {
+  background-color: blue;
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  border: none;
+  display: block;
+  margin-left: 20px;
+}
+
+text {
+  display:
+}
+
+h1 {
+  font-size: 16px;
+    margin-bottom: 10px;
+    margin-left:20px;
+}
+
+div {
+  display: flex
+}
+
+.first_name {
+  margin-left: 20px;
+}
+
+.last_name{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.password {
+  margin-left: 20px;
+}
+
+.check_password{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
